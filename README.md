@@ -12,7 +12,7 @@ Features
 Installation
 ------------
 
-Install lights-out by running:
+Install todo-app by running:
 
     git clone git@github.com:NguyenTrav/todo-app.git
     
